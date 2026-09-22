@@ -13,8 +13,12 @@ Le traitement des images utilise "PIL" <br>
 "[A] Début du GIF" et "[B] Fin GIF" permet de choisir une portion de la vidéo, un curseur rouge indique la sélection.<br>
 "Supp hors sélection" efface les images en dehors de la sélection.<br>
 "Supprime la sélection" efface les images de la sélection.<br>
+"Ouvrir une vidéo" charge une vidéo en mémoire, évitez les grosses vidéos, utilisez AviDemux par exemple pour découper une partie de la vidéo.<br>
 "Sauvegarde en GIF" sauvegarde la sélection en GIF.<br>
-le curseur marron permet de modifier la taille du GIF en fonction de la taille de la vidéo chargée et valider avec le bouton à sa droite.<br>
+"Lecture en marche" permet de lire ou de stopper l'animation.<br>
+"le curseur marron" permet de modifier la taille du GIF en fonction de la taille de la vidéo chargée et valider avec le bouton à sa droite.<br>
+"curseur bleu clair" "pas de lecture(step)" permet de lire toute les n images, si la valeur est négative l'animation est lue à l'envers.br>
+"curseur turquoise" "temps par image en millisecondes" permet de régler le temps de chaque images, (identique pour toutes les images).<br>
 
 <br>
 Visu de video_to_gif_0.16_
