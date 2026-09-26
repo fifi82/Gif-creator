@@ -1,4 +1,4 @@
-# Video ou images vers GIF animé 
+# Video ou images vers GIF ou WEBP animé 
 <br>
 
 Programmes écrit en python.<br>
