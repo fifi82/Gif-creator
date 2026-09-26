@@ -3,7 +3,9 @@
 
 Programmes écrit en python.<br>
 
-## video_to_gif génére un GIF animés avec une vidéo<br>
+## video_to_gif<br>
+
+Permet générer un GIF animé à partir d'une vidéo<br>
 version 0.16 => gif<br>
 version 0.17 => gif et webp<br><br>
 
