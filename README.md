@@ -4,6 +4,9 @@
 Programmes écrit en python.<br>
 
 video_to_gif génére un GIF animés avec une vidéo<br>
+version 0.16 => gif<br>
+version 0.17 => gif et webp<br><br>
+
 L'interface utilise "Tkinter"<br>
 L'ouverture des vidéos et l'extraction des images utilise "moviepy" pour video_to_gif <br>
 Le traitement des images utilise "PIL" <br>
