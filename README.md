@@ -3,7 +3,7 @@
 
 Programmes écrit en python.<br>
 
-video_to_gif génére un GIF animés avec une vidéo<br>
+## video_to_gif génére un GIF animés avec une vidéo<br>
 version 0.16 => gif<br>
 version 0.17 => gif et webp<br><br>
 
@@ -28,10 +28,16 @@ Visu de video_to_gif_0.16_
 <img alt="gif_crator" src="https://github.com/fifi82/Gif-creator/blob/main/visu_0.16.jpg" /><br>
 <hr>
 Petits problèmes:
-- la vitesse de lecture dans l'éditeur n'est pas tout à fait la même que sur le gif de sortie
+- la vitesse de lecture dans l'éditeur n'est pas tout à fait la même que sur le gif de sortie, surtout dû a la dimension trop importante du gif
   
 <hr><br>
 
 projet suivant :<br>
-- "images_to_gif" créer des GIF animés à partir de plusieurs images
+## images_to_gif<br>
+
+créer des GIF animés à partir de plusieurs images<br>
+
+## gif editor <br>
+
+éditer les gif
 <br><br>
